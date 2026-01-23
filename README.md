@@ -13,33 +13,6 @@ Hey there! I’m **Ridjal**, a computer science student at **IPB University**, r
 
 ---
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      <img src="./ROP.JPG" width="180" height="180" style="object-fit:cover;border-radius:12px;object-position:center;"><br>
-      <b>Renew Our Power</b><br>
-      <sub>Brazil, 2025 - Renewable Energy.</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="./HYLI.jpg" width="180" height="180" style="object-fit:cover;border-radius:12px;object-position:center;"><br>
-      <b>Hitachi Young Leaders</b><br>
-      <sub>Bali, 2024 - SDG 7 policy & tech.</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="./WYF.JPG" width="180" height="180" style="object-fit:cover;border-radius:12px;object-position:center;"><br>
-      <b>World Youth Festival</b><br>
-      <sub>Russia, 2024 - Youth Forum.</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="./BU.JPG" width="180" height="180" style="object-fit:cover;border-radius:12px;object-position:center;"><br>
-      <b>Beasiswa Unggulan</b><br>
-      <sub>Indonesia - National scholarship.</sub>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 💡 Featured Projects  
 
 | Project | Description | Tech Stack |
@@ -107,7 +80,7 @@ Hey there! I’m **Ridjal**, a computer science student at **IPB University**, r
   </tr>
 </table>
 
---
+---
 
 ### 📊 GitHub Stats  
 
