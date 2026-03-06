@@ -82,12 +82,6 @@ Hey there! I’m **Ridjal**, a computer science student at **IPB University**, r
 
 ---
 
-### 📊 GitHub Stats  
-
-![Ridjal’s GitHub stats](https://github-readme-stats.vercel.app/api?username=chairulridjaal&show_icons=true&theme=tokyonight&hide_border=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chairulridjaal&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ### 🎵 Currently Listening To  
 
 [![Spotify](https://novatorem-bice.vercel.app/api/spotify)](https://open.spotify.com/user/ixupuv5bgew4fys605r6ykara?si=8cdf16ede10f4d40)  
