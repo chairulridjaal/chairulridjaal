@@ -1,100 +1,131 @@
-# 🌞 Mochamad Chairulridjal Nurvikri  
+<div align="center">
 
-**`Building the future where code meets climate.`** ⚙️🌱  
+# Mochamad Chairulridjal Nurvikri
 
-Hey there! I’m **Ridjal**, a computer science student at **IPB University**, renewable energy advocate, and currently **President of IEEE Student Branch IPB University**. I love creating things that make a difference — from writing code that powers ideas, to building communities that bring technology closer to humanity. My journey revolves around **sustainability, AI, and clean energy** — blending logic with purpose, and curiosity with impact.  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&random=false&width=600&lines=Building+the+future+where+code+meets+climate;Machine+Learning+%7C+Sustainable+Energy;Advancing+Technology+for+Humanity)](https://git.io/typing-svg)
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mochamad-chairulridjal/"><img alt="LinkedIn" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/chairulridjaal"><img alt="Instagram" title="Follow on Instagram" src="https://custom-icon-badges.demolab.com/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://chairulridjal.xyz"><img alt="Personal Website" title="Visit my personal website" src="https://custom-icon-badges.demolab.com/badge/-Website-0A66C2?style=for-the-badge&logo=window&logoColor=white"/></a>  
-  <a href="https://github.com/chairulridjaal?tab=followers"><img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/chairulridjaal?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0ea5e9&height=120&section=header&animation=fadeIn" width="100%"/>
+
+<p>
+  <a href="https://www.linkedin.com/in/mochamad-chairulridjal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://chairulridjal.xyz"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://instagram.com/chairulridjaal"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://github.com/chairulridjaal?tab=followers"><img src="https://img.shields.io/github/followers/chairulridjaal?style=for-the-badge&logo=github&label=Follow&color=181717"/></a>
 </p>
 
----
-
-### 💡 Featured Projects  
-
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| [**KalaNusa**](https://github.com/chairulridjaal/kalanusa) | AI app preserving Indonesian cultural heritage through OCR and storytelling. | Python, OpenCV, FastAPI |
-| [**HerdSphere**](https://github.com/chairulridjaal/herdsphere) | Livestock tracking app with multi-farm support. | Firebase, React Native |
-| [**InvoiceChainAgent**](https://github.com/chairulridjaal/invoicechainagent) | AI & blockchain system for invoice validation and fraud detection. | Python, Fetch.ai, ICP, GPT-4o |
+</div>
 
 ---
 
-### ⚙️ Technical Skills
+```python
+class Ridjal:
+    def __init__(self):
+        self.role = "CS Student @ IPB University"
+        self.current = "Researcher, SEACIL"
+        self.focus = ["Machine Learning", "Sustainable Energy", "Climate Change"]
+        self.building = "AI solutions for clean energy transition"
+```
 
-<table role="presentation" width="100%" style="width:100%; border-collapse:separate; border-spacing:24px 16px; border:0;">
-  <tr>
-    <td align="center" width="50%" style="border:0; padding:0;">
-      <h4>🤖 AI / ML & Data</h4>
-      <p>
-        <img alt="Python" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-        <img alt="TensorFlow" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
-        <img alt="PyTorch" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
-        <img alt="Pandas" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
-        <img alt="NumPy" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
-        <img alt="Jupyter" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
-      </p>
-      <sub>Python · TensorFlow · PyTorch · Pandas · NumPy · Jupyter</sub>
-    </td>
-    <td align="center" width="50%" style="border:0; padding:0;">
-      <h4>💻 Frontend & UI</h4>
-      <p>
-        <img alt="React" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-        <img alt="Next.js" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
-        <img alt="TypeScript" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-        <img alt="JavaScript" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-        <img alt="Tailwind CSS" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
-        <img alt="Vite" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg"/>
-      </p>
-      <sub>React · Next.js · TypeScript · Tailwind · JavaScript · Vite</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" style="border:0; padding:0;">
-      <h4>⚙️ Backend & Database</h4>
-      <p>
-        <img alt="Node.js" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-        <img alt="Express" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
-        <img alt="Firebase" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
-        <img alt="PostgreSQL" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-        <img alt="MongoDB" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-      </p>
-      <sub>Node.js · Express · Firebase · PostgreSQL · MongoDB</sub>
-    </td>
-    <td align="center" width="50%" style="border:0; padding:0;">
-      <h4>🛠️ Tools & Platforms</h4>
-      <p>
-        <img alt="Git" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-        <img alt="Docker" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-        <img alt="AWS" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
-        <img alt="Vercel" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg"/>
-        <img alt="Linux" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-        <img alt="VS Code" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-        <img alt="Figma" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-      </p>
-      <sub>Git · Docker · AWS · Vercel · Linux · VS Code · Figma</sub>
-    </td>
-  </tr>
+---
+
+## Research & Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### PI-GAT-TCN
+
+**Physics-Informed Graph Attention Network** for multi-node distribution grid state forecasting under solar PV uncertainty.
+
+`Python` `PyTorch` `Graph Neural Networks`
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/chairulridjaal/PI-GAT-TCN)
+
+</td>
+<td width="50%">
+
+### AO-PSO-TFT-Energy
+
+**Hybrid AO-PSO Optimized Temporal Fusion Transformer** for multi-horizon energy forecasting.
+
+`Python` `Metaheuristics` `Deep Learning`
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/chairulridjaal/AO-PSO-TFT-Energy)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### InvoiceChainAgent
+
+AI & blockchain system for **invoice validation and fraud detection** using GPT-4o and ICP.
+
+`Python` `Fetch.ai` `ICP` `GPT-4o`
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/chairulridjaal/invoice-chain-agent)
+
+</td>
+<td width="50%">
+
+### HerdSphere
+
+Livestock tracking app with **multi-farm support** and daily activity recording.
+
+`TypeScript` `React Native` `Firebase`
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/chairulridjaal/HerdSphere)
+
+</td>
+</tr>
 </table>
+---
+
+## Tech Stack
+
+<div align="center">
+
+|                                                     AI / ML                                                     |                                                    Frontend                                                     |                                                     Backend                                                     |                                                  Tools                                                   |
+| :-------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: |
+|       ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)       |        ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)         |    ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)     |        ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)        |
+|     ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)      |      ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)      |    ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)    |   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)    |
+| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) |
+|       ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)       |  ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)   |     ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)      |     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)     |
+
+</div>
 
 ---
 
-### 🎵 Currently Listening To  
+## GitHub Stats
 
-[![Spotify](https://novatorem-bice.vercel.app/api/spotify)](https://open.spotify.com/user/ixupuv5bgew4fys605r6ykara?si=8cdf16ede10f4d40)  
-*(good code starts with a good playlist)* 🎧  
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chairulridjaal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e"/>
 
----
-
-### 🧩 What Drives Me  
-
-I’m deeply passionate about using technology to build a cleaner, fairer future.  From **community-based solar projects** to **AI-powered sustainability tools**, I believe innovation means little unless it creates impact that lasts. I lead with the same purpose that guides IEEE — *Advancing Technology for Humanity* — and I hope every line of code I write contributes to that mission.
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chairulridjaal&theme=github-dark-blue&hide_border=true&background=0D1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" />
+</div>
 
 ---
 
-### 🌱 Let’s Collaborate  
+## Currently Vibing To
 
-If your mission aligns with sustainability, AI, or open-source impact — let’s connect. Together, we can **advance technology for humanity.** 💚  
+<div align="center">
+
+[![Spotify](https://novatorem-bice.vercel.app/api/spotify)](https://open.spotify.com/user/ixupuv5bgew4fys605r6ykara)
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's build something that matters.
+
+_Using technology to power a cleaner, fairer future._
+
+**Advancing Technology for Humanity**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0ea5e9&height=100&section=footer"/>
+
+</div>
