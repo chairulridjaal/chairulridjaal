@@ -80,7 +80,6 @@ Livestock tracking app with **multi-farm support** and daily activity recording.
 </td>
 </tr>
 </table>
----
 
 ## Tech Stack
 
